@@ -1,0 +1,7 @@
+project_title = "Math Assistant 2.0"
+name = "Nurzhan"
+github = "munlicode"
+edx = "raya_naya_lovie"
+city = "Astana"
+country = "Kazakhstan"
+date = "22.12.2024"

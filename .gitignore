@@ -1,0 +1,8 @@
+.env
+test_session.txt
+
+hello.txt
+
+venv/
+
+__pycache__/
